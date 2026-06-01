@@ -1,17 +1,19 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,23,42,112,26,117,222&height=200&section=header&text=ABILASH%20ABRAHAM&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🎨%20UI/UX%20Designer%20%7C%20💻%20Frontend%20Developer&descAlignY=65&descSize=18" width="100%"/>
+
 <div align="center">
 
-# ✦ ABILASH ABRAHAM ✦
-### UI/UX Designer · Frontend Developer · Kerala, India 🇮🇳
-#### *Designing Intuitive Digital Experiences — Bridging Design + Code*
+🛸 **Bridging the Gap Between Stunning Design and Clean Code** 🛸
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Designing+Intuitive+Digital+Experiences+%F0%9F%8E%A8;Figma+%7C+Tailwind+CSS+%7C+JavaScript+%7C+React;Crafting+User-Centric+Interfaces+%E2%9C%A8;Open+to+Full-Time+%26+Freelance+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Designing+Intuitive+Digital+Experiences+%F0%9F%8E%A8;UI%2FUX+Designer+%2B+Frontend+Developer;Figma+%7C+HTML+%7C+CSS+%7C+JavaScript;Open+to+Full-Time+%26+Freelance+Roles+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
+<p align="center">
+  <a href="https://portfolio-abilash-abraham.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Live-70a5fd?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/abilash-abraham-arackal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.behance.net/abilashabraham"><img src="https://img.shields.io/badge/Behance-Follow-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ambyarackal&style=flat-square&color=70a5fd&label=PROFILE+VIEWS)](https://github.com/ambyarackal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-abilash-abraham.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abilash-abraham-arackal/)
-[![Behance](https://img.shields.io/badge/Behance-Follow-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/abilashabraham)
+📊 **Profile Views**
+<img src="https://komarev.com/ghpvc/?username=ambyarackal&style=flat-square&color=70a5fd&label=VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -19,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
 const abilash = {
@@ -27,15 +29,21 @@ const abilash = {
   location: "Kannur, Kerala 🇮🇳",
   role: "UI/UX Designer & Frontend Developer",
   education: "MCA — Don Bosco College, Kannur University",
-
-  stack: ["Figma", "HTML5", "CSS3", "JavaScript", "Python"],
-  currentlyLearning: ["Advanced Interaction Design", "Motion UI", "React"],
-
-  portfolio: "https://portfolio-abilash-abraham.vercel.app/",
-  email: "abilashabraham93@gmail.com",
+  
+  stack: {
+    design: ["Figma", "Photoshop", "After Effects"],
+    frontend: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
+    backend: ["Python"]
+  },
+  
+  currentlyLearning: [
+    "Advanced Interaction Design", 
+    "Motion UI Micro-animations", 
+    "React Hooks & State Management"
+  ],
 
   funFact: "I speak 6 languages and debug in all of them 😄",
-  motto: () => "Design what users need, build what works.",
+  motto: () => "Design what users need, build what works."
 };
 ```
 
