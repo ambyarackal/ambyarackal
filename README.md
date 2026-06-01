@@ -1,10 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1b27,70a5fd&height=200&section=header&text=ABILASH%20ABRAHAM&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%26%20Frontend%20Developer&descSize=18&descAlignY=58&descFontColor=c9d1d9" alt="Abilash Abraham" />
-</div>
 
-<div align="center">
+# ✦ ABILASH ABRAHAM ✦
+### UI/UX Designer · Frontend Developer · Kerala, India 🇮🇳
+#### *Designing Intuitive Digital Experiences — Bridging Design + Code*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Designing+Intuitive+Digital+Experiences+%F0%9F%8E%A8;Bridging+Design+%2B+Code+%7C+UI%2FUX+Designer;Figma+%7C+HTML+%7C+CSS+%7C+JavaScript;Open+to+Full-Time+%26+Freelance+Roles+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Designing+Intuitive+Digital+Experiences+%F0%9F%8E%A8;UI%2FUX+Designer+%2B+Frontend+Developer;Figma+%7C+HTML+%7C+CSS+%7C+JavaScript;Open+to+Full-Time+%26+Freelance+Roles+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ambyarackal&style=flat-square&color=70a5fd&label=PROFILE+VIEWS)](https://github.com/ambyarackal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-abilash-abraham.vercel.app/)
@@ -183,7 +185,7 @@ const abilash = {
 
 | Degree | Institution | Score |
 |--------|-------------|-------|
-| Master of Computer Applications (MCA) | Don Bosco College, Kannur University | — |
+| Master of Computer Applications (MCA) | Don Bosco College, Kannur University |
 
 | Certification | Issued By | Year |
 |---------------|-----------|------|
@@ -221,4 +223,5 @@ const abilash = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+*Thanks for visiting! If you like what you see, let's connect 🤝*
