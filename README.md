@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABILASH%20ABRAHAM&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=UI%2FUX%20Designer%20%26%20Frontend%20Developer&descAlignY=62&descSize=16)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1b27,70a5fd&height=200&section=header&text=ABILASH%20ABRAHAM&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%26%20Frontend%20Developer&descSize=18&descAlignY=58&descFontColor=c9d1d9" alt="Abilash Abraham" />
+</div>
 
 <div align="center">
 
