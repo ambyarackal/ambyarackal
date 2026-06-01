@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABILASH%20ABRAHAM&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=UI%2FUX%20Designer%20%26%20Frontend%20Developer&descAlignY=62&descSize=16" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABILASH%20ABRAHAM&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=UI%2FUX%20Designer%20%26%20Frontend%20Developer&descAlignY=62&descSize=16)
 
 <div align="center">
 
