@@ -111,16 +111,6 @@ const abilash = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ambyarackal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ambyarackal)
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
