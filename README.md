@@ -191,8 +191,8 @@ const abilash = {
 
 <div align="center">
 
-| Degree | Institution | Score |
-|--------|-------------|-------|
+| Degree | Institution |
+|--------|-------------|
 | Master of Computer Applications (MCA) | Don Bosco College, Kannur University |
 
 | Certification | Issued By | Year |
