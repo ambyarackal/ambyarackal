@@ -1,225 +1,116 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,23,42,112,26,117,222&height=200&section=header&text=ABILASH%20ABRAHAM&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🎨%20UI/UX%20Designer%20%7C%20💻%20Frontend%20Developer&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,23,42,112,26,117,222&height=200&section=header&text=ABILASH%20ABRAHAM&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🎨%20UI/UX%20Designer%20%7C%20✨%20Digital%20Experience%20Creator&descAlignY=65&descSize=18" width="100%"/>
 
 <div align="center">
 
-🛸 **Bridging the Gap Between Stunning Design and Clean Code** 🛸
+**Designing Intuitive Digital Experiences That Delight & Convert**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Designing+Intuitive+Digital+Experiences+%F0%9F%8E%A8;Figma+%7C+Tailwind+CSS+%7C+JavaScript+%7C+React;Crafting+User-Centric+Interfaces+%E2%9C%A8;Open+to+Full-Time+%26+Freelance+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Crafting+User-Centric+Interfaces+%E2%9C%A8;Empathy-Driven+Design+Thinking+%F0%9F%A7%A0;Figma+%7C+Prototyping+%7C+Wireframing;Open+to+Full-Time+%26+Freelance+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://portfolio-abilash-abraham.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Live-70a5fd?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/abilash-abraham-arackal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.behance.net/abilashabraham"><img src="https://img.shields.io/badge/Behance-Follow-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+<br/>
+
+<a href="https://portfolio-abilash-abraham.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=70a5fd" alt="Portfolio"></a>
+<a href="https://www.behance.net/abilashabraham"><img src="https://img.shields.io/badge/Behance-Case_Studies-0D1117?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769FF" alt="Behance"></a>
+<a href="https://dribbble.com/"><img src="https://img.shields.io/badge/Dribbble-UI_Shots-0D1117?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=EA4C89" alt="Dribbble"></a>
+<a href="https://www.linkedin.com/in/abilash-abraham-arackal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"></a>
+
+</div>
+
+<br/>
+
+## 👨‍🎨 About My Approach
+
+I am a passionate **UI/UX Designer** who bridges the gap between stunning visual aesthetics and seamless functionality. Having a background in frontend development allows me to design with feasibility in mind. I don't just create pretty screens—I solve problems through empathy, research, and iterative design.
+
+> **"Design what users need, build what works."**
+
+- 📍 **Based in:** Kannur, Kerala 🇮🇳
+- 🎯 **Specialties:** User Research, Interaction Design, Design Systems, and Prototyping
+- 🗣️ **Languages:** Fluent in 6 languages, giving me a unique perspective on localized and culturally empathetic design
+
+<br/>
+
+## 🎨 The Design Arsenal
+
+**Tools of the Trade**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects">
 </p>
 
-📊 **Profile Views**
-<img src="https://komarev.com/ghpvc/?username=ambyarackal&style=flat-square&color=70a5fd&label=VIEWS" alt="Profile Views" />
+**UX Methodologies**
+<p>
+  <img src="https://img.shields.io/badge/-User%20Research-0D1117?style=flat-square&color=70a5fd">
+  <img src="https://img.shields.io/badge/-Information%20Architecture-0D1117?style=flat-square&color=70a5fd">
+  <img src="https://img.shields.io/badge/-Wireframing-0D1117?style=flat-square&color=70a5fd">
+  <img src="https://img.shields.io/badge/-Rapid%20Prototyping-0D1117?style=flat-square&color=70a5fd">
+  <img src="https://img.shields.io/badge/-Usability%20Testing-0D1117?style=flat-square&color=70a5fd">
+  <img src="https://img.shields.io/badge/-Design%20Systems-0D1117?style=flat-square&color=70a5fd">
+</p>
 
-</div>
+**Frontend Reality-Check (I speak code too!)**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+</p>
 
----
-
-## 👨‍💻 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```javascript
-const abilash = {
-  name: "Abilash Abraham",
-  location: "Kannur, Kerala 🇮🇳",
-  role: "UI/UX Designer & Frontend Developer",
-  education: "MCA — Don Bosco College, Kannur University",
-  
-  stack: {
-    design: ["Figma", "Photoshop", "After Effects"],
-    frontend: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
-    backend: ["Python"]
-  },
-  
-  currentlyLearning: [
-    "Advanced Interaction Design", 
-    "Motion UI Micro-animations", 
-    "React Hooks & State Management"
-  ],
-
-  funFact: "I speak 6 languages and debug in all of them 😄",
-  motto: () => "Design what users need, build what works."
-};
-```
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-**Design Tools**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
-
-**Languages & Web**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/ambyarackal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambyarackal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/ambyarackal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambyarackal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ambyarackal&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-[![Abilash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ambyarackal&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ambyarackal)
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary><b>🤖 AI Language Trainer — Outlier (Freelance) | Jan 2022 – Present</b></summary>
 <br/>
 
-> `NLP` `Data Annotation` `AI Evaluation` `Cross-functional Collaboration`
-
-- Analyzed and refined 500+ data entries weekly, improving model NLU accuracy measurably
-- Analyzed user intent to ensure AI responses are relevant, accurate, and user-friendly
-- Collaborated with cross-functional teams to identify linguistic patterns and improve algorithm performance
-
-</details>
-
-<details>
-<summary><b>🔐 Penetration Tester (Freelance) | Jan 2022 – Present</b></summary>
-<br/>
-
-> `OWASP` `Vulnerability Assessment` `Security Auditing` `QA`
-
-- Conducted vulnerability assessments on web applications identifying security flaws that impact user trust
-- Performed rigorous quality audits and documented findings with attention to detail similar to UX heuristic evaluations
-- Recommended mitigation strategies to ensure compliance with OWASP standards
-
-</details>
-
-<details>
-<summary><b>🐍 Python Fullstack Developer — Focture Technologies, Ernakulam | Jul 2020 – Aug 2021</b></summary>
-<br/>
-
-> `Python` `HTML` `CSS` `JavaScript` `UI/UX Collaboration`
-
-- Executed seamless backend-to-frontend integration, ensuring data rendered accurately within the UI
-- Collaborated closely with UI/UX designers to translate visual concepts into pixel-perfect functional interfaces
-- Enhanced application usability by optimizing code structure, resulting in faster load times and smoother transitions
-
-</details>
-
-<details>
-<summary><b>🛡️ Penetration Tester Intern — SISA, Bengaluru | Jan 2018 – Dec 2018</b></summary>
-<br/>
-
-> `Security Auditing` `Vulnerability Testing` `Reporting`
-
-- Assisted in security audits and vulnerability testing under professional guidance
-- Gained hands-on exposure to real-world penetration testing methodologies
-
-</details>
-
----
-
-## 🚀 Featured Projects
+## 🚀 Featured Case Studies & Prototypes
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| [🚌 MyBus – Bus Tracking App](https://www.figma.com/proto/1IiNpYYH2J3lAg83cg5tDN/Abilash-19-01-2026?node-id=1809-1617) | Figma · UI Design · UX Research | End-to-end case study; real-time tracking UX; scalable design system; validated via usability testing |
-| [🏥 MediBook – Doctor Booking App](https://www.figma.com/proto/1IiNpYYH2J3lAg83cg5tDN/Abilash-19-01-2026?node-id=840-253) | Figma · Prototyping · Mobile UI | Full mobile flow: discovery → booking → payments; high-fidelity interactive Figma prototype |
-| [🚆 IRCTC App Redesign](https://www.figma.com/proto/1IiNpYYH2J3lAg83cg5tDN/Abilash-19-01-2026?node-id=2049-2258) | Figma · IA · UX Design | Restructured information architecture; simplified booking flow; reduced cognitive load |
-| [🕐 Akshara Clock](https://ambyarackal.github.io/Akshara-clock/) | HTML · CSS3 · JavaScript | Dynamic Malayalam text clock with glowing minimal typography |
+| Project | Role & Focus | Highlights |
+|--------|-------------|------------|
+| [🚌 **MyBus – Transit Tracking App**](https://www.figma.com/proto/1IiNpYYH2J3lAg83cg5tDN/Abilash-19-01-2026?node-id=1809-1617) | **Lead UX/UI Designer**<br/>*UX Research, Visual Design* | End-to-end case study; real-time tracking UX; scalable design system; validated via usability testing. |
+| [🏥 **MediBook – Healthcare Platform**](https://www.figma.com/proto/1IiNpYYH2J3lAg83cg5tDN/Abilash-19-01-2026?node-id=840-253) | **Product Designer**<br/>*Mobile UI, Prototyping* | Full mobile flow: discovery → booking → payments; high-fidelity interactive Figma prototype. |
+| [🚆 **IRCTC App UX Redesign**](https://www.figma.com/proto/1IiNpYYH2J3lAg83cg5tDN/Abilash-19-01-2026?node-id=2049-2258) | **UX Researcher**<br/>*Information Architecture* | Restructured IA; simplified the heavy booking flow; significantly reduced user cognitive load. |
 
 </div>
 
----
+<br/>
 
-## 🎓 Education & Certifications
+## 🧠 My Design Process
 
 <div align="center">
 
-| Degree | Institution |
-|--------|-------------|
-| Master of Computer Applications (MCA) | Don Bosco College, Kannur University |
-
-| Certification | Issued By | Year |
-|---------------|-----------|------|
-| UI/UX Design with AI | Entri Elevate · NSDC & Illinois Tech | 2025 |
+<img src="https://img.shields.io/badge/1.%20Discover-Empathize%20%26%20Research-0D1117?style=for-the-badge&labelColor=bf91f3" alt="Discover"> ➔ 
+<img src="https://img.shields.io/badge/2.%20Define-Analyze%20%26%20Synthesize-0D1117?style=for-the-badge&labelColor=70a5fd" alt="Define"> ➔ 
+<img src="https://img.shields.io/badge/3.%20Ideate-Wireframe%20%26%20Design-0D1117?style=for-the-badge&labelColor=38bdae" alt="Ideate"> ➔ 
+<img src="https://img.shields.io/badge/4.%20Deliver-Prototype%20%26%20Test-0D1117?style=for-the-badge&labelColor=e34f26" alt="Deliver">
 
 </div>
 
----
+<br/>
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
-```
-🎨 Advanced Interaction Design  →  Micro-animations, Motion UI, Gesture Design
-⚛️  React                        →  Component Architecture, Hooks, State Management
-🧠 AI in Design                  →  Prompt-driven Prototyping, AI Design Tools
-♿ Accessibility (A11y)           →  WCAG Standards, Inclusive Design Patterns
-```
+> Constant learning is key to staying ahead in design. Right now, I'm diving deep into:
 
----
+- ✨ **Advanced Interaction Design** — Micro-animations, Motion UI, and Scroll-driven Experiences.
+- 🤖 **AI in Design** — Prompt-driven Prototyping, AI Tooling, and Generative UI.
+- ♿ **Accessibility (A11y)** — WCAG 2.1 Standards and Inclusive Design Patterns.
+- 📐 **Design Systems** — Tokenizing UI components for cross-platform consistency.
 
-## 🌐 Languages
-
-`Malayalam` · `English` · `Tamil` · `Hindi` · `Kannada` · `French`
-
----
+<br/>
 
 <div align="center">
 
-**Let's build something great together.**
+**Let's craft experiences that matter.**
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-70a5fd?style=flat-square)](https://portfolio-abilash-abraham.vercel.app/)
 [![Email](https://img.shields.io/badge/📧%20Email-Contact-bf91f3?style=flat-square)](mailto:abilashabraham93@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abilash-abraham-arackal/)
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/abilashabraham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abilash-abraham-arackal/)
 
 </div>
 
----
-*Thanks for visiting! If you like what you see, let's connect 🤝*
+<br/>
+
+<p align="center">
+  <i>Thanks for dropping by! If you resonate with my work, let's connect 🤝</i>
+</p>
